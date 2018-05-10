@@ -22,8 +22,14 @@
 .below {
 	padding-left: 2em;
 	padding-bottom: 2em;
-	}
+}
 
+.body {
+	 margin-right:auto;
+	 margin-left:auto;
+	 max-width: 960px;
+	 text-align: center;
+}
 .nuts {
 	font-size: 6em;
 	font-weight: bold;
