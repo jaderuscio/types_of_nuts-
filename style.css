@@ -16,5 +16,12 @@ body {
 	padding-bottom: 2em;
 	padding-left: 4em;
 	text-align: center;
-	text-color:#ffffff;
+	
+}
+
+.idiom {
+	font-size: 6em;
+	font-weight: bold;
+	color: #ffffff;
+	display: inline-block;
 	}
