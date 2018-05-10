@@ -19,6 +19,10 @@ body {
 	
 }
 
+.title a:hover {
+	color: #f30;
+	}
+
 .nuts {
 	font-size: 6em;
 	font-weight: bold;
