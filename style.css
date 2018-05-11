@@ -40,6 +40,10 @@
 	padding-right: 2em;
 }
 
-
+.photo {
 	
+	margin-right:auto;
+	 margin-left:auto;
+	 max-width: 960px;
+}
 
